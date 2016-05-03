@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "bruli/php-git-hooks": "^4.1"
+    }
+}
